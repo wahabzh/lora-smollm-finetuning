@@ -12,11 +12,11 @@ A complete implementation of Low-Rank Adaptation (LoRA) for efficient fine-tunin
 This project demonstrates **Parameter-Efficient Fine-Tuning (PEFT)** using LoRA (Low-Rank Adaptation), one of the most important techniques in modern large language model adaptation. Instead of fine-tuning all parameters, LoRA introduces small trainable rank decomposition matrices to selected layers.
 
 ### Key Achievements
-- ✅ **99.76% Parameter Reduction**: Only 322K out of 134M parameters trainable
-- ✅ **Comparable Performance**: Achieves similar or better perplexity than full fine-tuning
-- ✅ **Memory Efficient**: Dramatically reduced memory requirements during training
-- ✅ **Fast Training**: Significantly faster training compared to full fine-tuning
-- ✅ **Practical Implementation**: Real-world applicable LoRA system
+- **99.76% Parameter Reduction**: Only 322K out of 134M parameters trainable
+- **Comparable Performance**: Achieves similar or better perplexity than full fine-tuning
+- **Memory Efficient**: Dramatically reduced memory requirements during training
+- **Fast Training**: Significantly faster training compared to full fine-tuning
+- **Practical Implementation**: Real-world applicable LoRA system
 
 ### LoRA Mathematical Foundation
 
